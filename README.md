@@ -5,7 +5,7 @@ The elements of the array listTINAmotley (in LcommaG.sol) can be claimed,
 transferred, bought, and sold on the Ethereum network. 
 Users can also add to the original array.
 
-The elements in listTINAmotley below are recited in a video
+The elements in listTINAmotley are recited in a video
 by Greg Smith. Both the video and this program will be part of
 exhibitions at the John Michael Kohler Art Center in
 Sheboygan, WI, and at Susan Inglett Gallery in New York, NY.
