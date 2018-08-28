@@ -1,5 +1,6 @@
+
 // The elements of the array listTINAmotley can be claimed, 
-// transferred, bought, and sold on the ethereum blockchain. 
+// transferred, bought, and sold on the ethereum network. 
 // Users can also add to the original array.
 
 // The elements in listTINAmotley below are recited in a video
