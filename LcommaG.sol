@@ -207,7 +207,7 @@ contract LcommaG {
 	listTINAmotley.push("Everything's for sale");
 	listTINAmotleyIndexToAddress[46] = info_OwnerOfContract;
 	listTINAmotley.push("Just bring your lists");
-        listTINAmotleyIndexToAddress[47] = info_OwnerOfContract;
+	listTINAmotleyIndexToAddress[47] = info_OwnerOfContract;
 	listTINAmotley.push("Micro resurrections");
 	listTINAmotleyIndexToAddress[48] = info_OwnerOfContract;
 	listTINAmotley.push("Paddle steamers");
