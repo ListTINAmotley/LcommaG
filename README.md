@@ -47,5 +47,5 @@ https://github.com/ListTINAmotley/LcommaG
 
 EVERYTHING IS IN UNITS OF WEI, NOT ETHER!
 
-The contract is deployed on the mainnet 
-at 
+The contract is deployed on the Ethereum mainnet 
+at 0x06F8C56F98704F77f5Ba79F0Dc9976bcBeD507d1.
