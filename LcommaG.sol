@@ -45,8 +45,9 @@
 
 // EVERYTHING IS IN UNITS OF WEI, NOT ETHER!
 
-// Contract is deployed at  on the 
-// mainnet.
+// Contract is deployed at 0x06F8C56F98704F77f5Ba79F0Dc9976bcBeD507d1 on 
+// Ethereum mainnet. 
+
 
 
 pragma solidity ^0.4.24;
