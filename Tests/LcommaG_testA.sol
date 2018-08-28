@@ -23,7 +23,7 @@
 
 pragma solidity ^0.4.24;
 
-contract LcommaGtestA{
+contract LcommaG_testA{
 
     address public mainContractAddress;
     address public mainContractOwnerAddress;
