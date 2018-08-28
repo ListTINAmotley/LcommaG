@@ -34,7 +34,7 @@ a list element, and the "for sale" or "bid" status of a list element.
 
 The functions that begin with "market_" are used for buying, selling, and
 placing bids on a list element. For example, to bid on the list element
-associated with \_index, send the bid (in wei, not ether) along with
+associated with \_index, send the bid along with
 the function execution of market_DeclareBid(\_index).
 
 Note that if there's a transaction involving ether (successful sale, 
