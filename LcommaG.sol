@@ -108,21 +108,21 @@ contract LcommaG {
         address indexed from, address indexed to);
     
     constructor () public {
-        info_OwnerOfContract = msg.sender;
+    	info_OwnerOfContract = msg.sender;
 	info_Name = "LcommaG";
 	info_Symbol = "L, G";
-        listTINAmotley.push("Now that, that there, that's for everyone");
-        listTINAmotleyIndexToAddress[0] = address(0);
-        listTINAmotley.push("Everyone's invited");
-        listTINAmotleyIndexToAddress[1] = address(0);
-        listTINAmotley.push("Just bring your lists");
-        listTINAmotleyIndexToAddress[2] = address(0);
- 	listTINAmotley.push("The for godsakes of surveillance");
-        listTINAmotleyIndexToAddress[3] = address(0);
- 	listTINAmotley.push("The shitabranna of there is no alternative");
-        listTINAmotleyIndexToAddress[4] = address(0);
- 	listTINAmotley.push("The clew-bottom of trustless memorials");
-        listTINAmotleyIndexToAddress[5] = address(0);
+	listTINAmotley.push("Now that, that there, that's for everyone");
+	listTINAmotleyIndexToAddress[0] = address(0);
+	listTINAmotley.push("Everyone's invited");
+	listTINAmotleyIndexToAddress[1] = address(0);
+	listTINAmotley.push("Just bring your lists");
+	listTINAmotleyIndexToAddress[2] = address(0);
+	listTINAmotley.push("The for godsakes of surveillance");
+	listTINAmotleyIndexToAddress[3] = address(0);
+	listTINAmotley.push("The shitabranna of there is no alternative");
+	listTINAmotleyIndexToAddress[4] = address(0);
+	listTINAmotley.push("The clew-bottom of trustless memorials");
+	listTINAmotleyIndexToAddress[5] = address(0);
 	listTINAmotley.push("The churning ballock of sadness");
         listTINAmotleyIndexToAddress[6] = address(0);
 	listTINAmotley.push("The bagpiped bravado of TINA");
