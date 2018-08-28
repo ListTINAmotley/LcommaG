@@ -7,7 +7,7 @@
 // exhibitions at the John Michael Kohler Art Center in
 // Sheboygan, WI, and at Susan Inglett Gallery in New York, NY.
 
-// Code is based on CryptoPunks, by Larva Labs.
+// This program is based on CryptoPunks, by Larva Labs.
 
 // List elements in listTINAmotley contain text snippets from 
 // Margaret Thatcher, Donna Haraway (A Cyborg Manfesto), Francois 
